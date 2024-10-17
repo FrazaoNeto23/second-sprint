@@ -37,7 +37,7 @@ video {
 
 .capa-titulo {
     color: white;
-    font-size: 80px;  /* Tamanho da fonte */
+    font-size: 60px;  /* Tamanho da fonte */
     margin-bottom: 5px;
     font-weight: bold; /* Grossura da fonte */
 }
@@ -71,7 +71,7 @@ video {
 #carouselExampleControls {
     background-color: transparent;
     position: absolute;
-    bottom: 10px;
+    bottom: -60px;
     left: 50px;
 }
 
