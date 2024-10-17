@@ -11,7 +11,7 @@ body {
 
 ul {
     height: 25px;
-    width: 110%; /* Largura */
+    width: 95%; /* Largura */
     display: flex;
     justify-content: space-between;
     list-style-type: none;
@@ -20,7 +20,7 @@ ul {
 }
 
 .img-topo {
-    height: 25px;  /* Altura */
+    height: 50px;  /* Altura */
 }
 
 video {
